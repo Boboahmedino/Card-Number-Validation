@@ -328,7 +328,7 @@ Response:
 Express.js was chosen because this project only requires a single endpoint. It is lightweight, easy to set up, and much easier to explain during a live technical review compared to larger frameworks like NestJS.
 
 ---
-
+ 
 ## Why TypeScript?
 
 TypeScript improves code reliability through static typing and strict mode checks. It helps catch development errors early and makes the project easier to maintain.
