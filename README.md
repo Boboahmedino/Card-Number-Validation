@@ -334,5 +334,3 @@ It focuses purely on validation logic.
 ## 👤 Author
 
 **Ahmed Olaneye**
-
-Backend Developer Intern Assessment Submission
