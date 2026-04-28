@@ -6,7 +6,6 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-Strict-blue?logo=typescript)](https://www.typescriptlang.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-minimal-black?logo=express)](https://expressjs.com/)
 [![Postman](https://img.shields.io/badge/Tested%20with-Postman-orange?logo=postman)](https://www.postman.com/)
-[![License](https://img.shields.io/badge/License-Learning%20Project-lightgrey)](#license)
 
 ---
 
