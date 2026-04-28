@@ -320,56 +320,6 @@ Response:
 
 ---
 
-## 🧠 Design Decisions
-
-## Why Express.js?
-
-Express.js was chosen because this project only requires a single endpoint. It is lightweight, easy to set up, and much easier to explain during a live technical review compared to larger frameworks like NestJS.
-
----
- 
-## Why TypeScript?
-
-TypeScript improves code reliability through static typing and strict mode checks. It helps catch development errors early and makes the project easier to maintain.
-
----
-
-## Why the Luhn Algorithm?
-
-The Luhn Algorithm is the industry-standard checksum method used for validating card numbers before payment processing. It is lightweight, reliable, and the correct professional choice for this assessment.
-
----
-
-## Why Separate Routes, Controllers, and Services?
-
-This structure improves readability and maintainability.
-
-* **Routes** define endpoint paths
-* **Controllers** handle request and response logic
-* **Services** contain business logic (validation)
-
-This keeps responsibilities clear and makes the code easier to test and scale.
-
----
-
-## Why Return 400 for Missing Input?
-
-A missing `cardNumber` means the client sent an invalid request. According to HTTP standards, `400 Bad Request` is the correct response.
-
----
-
-## Why Testing Matters
-
-Testing proves that the endpoint behaves correctly for:
-
-* valid card numbers
-* invalid card numbers
-* missing request input
-
-It improves confidence in the application and shows production thinking.
-
----
-
 ## 📝 Important Notes
 
 * This API only validates card number structure and checksum
