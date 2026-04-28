@@ -382,24 +382,6 @@ It focuses purely on validation logic.
 
 ---
 
-## 📌 Submission Notes
-
-This project was submitted as part of a Backend Developer Intern Assessment.
-
-The focus of the assessment includes:
-
-* code correctness
-* clean structure
-* error handling
-* testing
-* README quality
-* GitHub commit history
-* live code explanation during review
-
-Because of this, the code was intentionally written to be simple, clean, and easy to explain line by line.
-
----
-
 ## 👤 Author
 
 **Ahmed Olaneye**
