@@ -7,7 +7,6 @@
 [![Express.js](https://img.shields.io/badge/Express.js-5.x-000000?logo=express\&logoColor=white)](https://expressjs.com/)
 [![Postman](https://img.shields.io/badge/Tested%20with-Postman-FF6C37?logo=postman\&logoColor=white)](https://www.postman.com/)
 [![Tests](https://img.shields.io/badge/Tests-Node%20%2B%20Supertest-4B5563?logo=node.js\&logoColor=white)](#testing)
-[![License](https://img.shields.io/badge/License-ISC-lightgrey)](#license)
 
 ---
 
